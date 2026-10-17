@@ -30,4 +30,4 @@ PPT是教学材料，不是已完成的实证验证；本 Skill 不声称已经�
 
 ## 当前发布状态
 
-当前为本地公开发布前验收版本。项目根目录已固定为 `medical-sci-introduction/`，已清理 Mac 系统元数据并加入最小 `.gitignore`。作者已确认 MIT 许可、`medical-sci-introduction contributors` 署名和按本 README 来源说明公开发布；尚未创建 GitHub 仓库或推送，最终状态仍取决于实际 Skill 调用验收。
+当前版本已完成本地验收并发布到 GitHub 公开仓库 `wen2003-bit/medical-sci-introduction`。项目根目录为 `medical-sci-introduction/`，已清理 Mac 系统元数据并加入最小 `.gitignore`。作者已确认 MIT 许可、`medical-sci-introduction contributors` 署名和按本 README 来源说明公开发布。本仓库不包含原始 PPT、截图、论文全文或未获授权的合作人员资料，也不声称该方法已得到实证验证。
