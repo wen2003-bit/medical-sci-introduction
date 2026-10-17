@@ -1,0 +1,6 @@
+interface:
+  display_name: "医学SCI前言写作"
+  short_description: "按六步流程撰写并核查医学SCI论文Introduction"
+  default_prompt: "使用 $medical-introduction-writing 按六步流程处理这篇医学研究的Introduction。"
+policy:
+  allow_implicit_invocation: true
